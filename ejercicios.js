@@ -17,7 +17,7 @@ function compareSeven() {
 // Operadores lógicos
 // 4. Verifica si puedes comprar un producto de 1500 con un descuento del 25% teniendo 1150€ e imprime si puedes o no.
 function canBuyProduct() {
-    console.log(1115 > 1500 * 75 /100)
+    console.log(1115 > 1500 * 25 /100)
 
 }
 
